@@ -17,6 +17,9 @@ header-img: "http://lorempixel.com/1920/1080/food/"
         {% endif %}
     </a>
     <p class="post-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    {% if post.header-img %}
+        <img class="img-responsive" alt="{{ post.title }}" src="{{ post.header-img }}" />
+    {% endif %}
 </div>
 <hr>
 {% endfor %}
