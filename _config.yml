@@ -15,11 +15,11 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://vegan.fat.gr'
+  siteurl: 'http://vegan.fat.gr/'
   relativeLinks: 'http://vegan.fat.gr/links.jsonp'
-  media: 'media'
+  media: 'blob'
   ignore:
-    - index.md
+    - index.html
     - _config.yml
     - /_layouts
     - /_includes
@@ -29,3 +29,18 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          value: ""
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
