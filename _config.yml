@@ -7,7 +7,7 @@ url: "http://vegan.fat.gr"
 twitter_username: VeganFat
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 highlighter: pygments
 permalink: /:title
 paginate: 5
