@@ -1,7 +1,7 @@
 ---
 layout: page
 description: "Dolor sit amet, consectetur adipiscing elit."
-header-img: "http://lorempixel.com/1920/1080/food/"
+header-img: "/blob/healthy-food-choices-and-vegan-diets.jpg"
 ---
 
 {% for post in paginator.posts %}
@@ -18,7 +18,7 @@ header-img: "http://lorempixel.com/1920/1080/food/"
     </a>
     <p class="post-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
     {% if post.header-img %}
-        <img class="img-responsive" alt="{{ post.title }}" src="http://lorempixel.com/1920/1080/food/{{ post.date | date: '%Y-%-d-%b' }}" />
+        <img class="img-responsive" alt="{{ post.title }}" src="{{ post.image }}" />
     {% endif %}
 </div>
 <hr>
