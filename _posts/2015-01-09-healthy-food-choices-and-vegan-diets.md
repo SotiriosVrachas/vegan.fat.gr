@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Healthy Food Choices And Vegan Diets
-image: "/_posts/healthy-food-choices-and-vegan-diets.jpg"
+image: "/blob/healthy-food-choices-and-vegan-diets.jpg"
 ---
 
 The right diet or maintaining a healthy diet may also be easier in theory. Because of so many processed meals, fast meals, canned goods, junk meals, and meat items around, what else could you expect but to determine more and more people attaining weight excessively, a lot more know a couple of who eventually are afflicted by health problems because of excessive putting on weight. So, regardless if you are of these people or otherwise, it's about time you think about maintaining a healthy diet as soon as now. But maintaining a healthy diet may mean various things to various people. For just one, it might mean happening vegan diets, eating raw meals, and selecting healthy superfoods than processed ones.
