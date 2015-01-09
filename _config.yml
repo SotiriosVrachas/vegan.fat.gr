@@ -6,6 +6,9 @@ baseurl: ""
 url: "http://vegan.fat.gr"
 twitter_username: VeganFat
 
+
+permalink: /:title
+
 # Build settings
 markdown: kramdown
 highlighter: pygments
