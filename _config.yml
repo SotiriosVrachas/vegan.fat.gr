@@ -1,7 +1,7 @@
 # Site settings
 title: Vegan Fat
 email: vegan@fat.gr
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: ""
 baseurl: ""
 url: "http://vegan.fat.gr"
 twitter_username: VeganFat
@@ -12,3 +12,20 @@ highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://vegan.fat.gr'
+  relativeLinks: 'http://vegan.fat.gr/links.jsonp'
+  media: 'media'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
