@@ -17,7 +17,7 @@ header-img: "/blob/healthy-food-choices-and-vegan-diets.jpg"
         {% endif %}
     </a>
     <p class="post-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
-    {% if post.header-img %}
+    {% if post.image %}
         <img class="img-responsive" alt="{{ post.title }}" src="{{ post.image }}" />
     {% endif %}
 </div>
