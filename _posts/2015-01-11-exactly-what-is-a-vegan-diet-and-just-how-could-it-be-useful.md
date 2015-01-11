@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Exactly what is a vegan diet and just how could it be useful
 image: /blob/2561412307_6d3acf04c8_b.jpg
 ---
