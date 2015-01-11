@@ -2,6 +2,7 @@
 layout: post
 published: false
 title: Exactly what is a vegan diet and just how could it be useful
+image: /blob/2561412307_6d3acf04c8_b.jpg
 ---
 
 Many people should be confused and try to wanted to understand the purposes of the vegan diet. Through this short article I'll attempt to let you know many of the advantages of switching as much as vegan diet. I will let you know the best way to shed pounds by sticking to some vegan diet. Before that what exactly is a vegan diet? A vegan weight loss program is one which essentially consists of plant meals and nil animal services and items. People following this vegan diet tend not to eat meat, chicken, seafood, eggs, milk and never even milk products. This unique diet can reduce chemicals for example sugar.
