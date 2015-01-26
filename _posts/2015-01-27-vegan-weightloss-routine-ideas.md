@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: Vegan Weightloss routine Ideas
+title: Vegan Weight loss routine Ideas
 image: /blob/3932976023_5171621d44_b.jpg
 ---
 
@@ -17,6 +17,6 @@ Living on especially simple vegan foods comprises neat and raw salad and vegetab
 
 The vegan weight loss routine strategy generally includes fruit in the morning, and dinner and lunch made with clean salad and veggies, steamed or sautéed veggies and grains. Strange grains for example Quinoa and amaranth are greater in protein, and sustained historic cultures in Peru along with other distant locations. These grains are astonishingly great with entire protein, wonderful in sauces and preparing salads. Making use of these types of grains adds nutritional variety to the diet plan.
 
-Continuing at [/vegan-weightloss-routine-ideas-2](Vegan Weightloss routine Ideas (Part 2))
+Continuing at [/vegan-weightloss-routine-ideas-2](Vegan Weight loss routine Ideas (Part 2))
 
 Photo by Martin LaBar
