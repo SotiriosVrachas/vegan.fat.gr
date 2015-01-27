@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: Vegan Weight loss routine Ideas
-image: /blob/3932976023_5171621d44_b.jpg
+image: /blob/225231269_0cf695ca2e_b.jpg
 ---
 
 What can a vegan weight loss routine program be? Vegan means a individual that selects to become absolutely vegetarian. Which indicates consuming hardly any with experience, feet or tail, also including absolutely nothing regardless of the sort of animal origin (this type of as dairy or eggs). Most vegans also prevent honey, because it was created with a second creature, and won't put on leather shoes and garments.
@@ -19,4 +19,4 @@ The vegan weight loss routine strategy generally includes fruit in the morning, 
 
 Continuing at [/vegan-weightloss-routine-ideas-2](Vegan Weight loss routine Ideas (Part 2))
 
-Photo by Martin LaBar
+Photo [raspberries macro](https://www.flickr.com/photos/calliope/225231269) by [Martin LaBar](https://www.flickr.com/photos/calliope/)
